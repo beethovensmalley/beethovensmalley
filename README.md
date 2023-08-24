@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Beethoven Smalley's Software Engineering Class GitHub home
+
 <!--
 **beethovensmalley/beethovensmalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
